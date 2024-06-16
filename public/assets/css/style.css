@@ -1,0 +1,21 @@
+*{                        
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Inter';
+  color: #FFFFFF;
+}
+
+.bg-black{
+  background-color: #000000;
+}
+
+.bg-red{
+  background-color: #FF0000;
+}
+
+.text-red{
+  color: #FF0000;
+}
